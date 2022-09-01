@@ -1,1 +1,1 @@
-# Cpp_Projects
+# Conway's Game of Life Simulation
